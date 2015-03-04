@@ -1,4 +1,4 @@
 apache
 ===
 
-    docker run --name at_debian -t -i atdocker/apache:latest /bin/bash
+    docker run --name at_debian -t -i atdocker/debian:latest /bin/bash
